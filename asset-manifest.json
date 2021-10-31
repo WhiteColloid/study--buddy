@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/study--buddy/static/css/main.a617e044.chunk.css",
+    "main.js": "/study--buddy/static/js/main.a05f30de.chunk.js",
+    "main.js.map": "/study--buddy/static/js/main.a05f30de.chunk.js.map",
+    "runtime-main.js": "/study--buddy/static/js/runtime-main.6fc3dfde.js",
+    "runtime-main.js.map": "/study--buddy/static/js/runtime-main.6fc3dfde.js.map",
+    "static/js/2.4b20077f.chunk.js": "/study--buddy/static/js/2.4b20077f.chunk.js",
+    "static/js/2.4b20077f.chunk.js.map": "/study--buddy/static/js/2.4b20077f.chunk.js.map",
+    "static/js/3.01de8ff5.chunk.js": "/study--buddy/static/js/3.01de8ff5.chunk.js",
+    "static/js/3.01de8ff5.chunk.js.map": "/study--buddy/static/js/3.01de8ff5.chunk.js.map",
+    "index.html": "/study--buddy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/study--buddy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4b20077f.chunk.js.LICENSE.txt": "/study--buddy/static/js/2.4b20077f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/study--buddy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fc3dfde.js",
+    "static/js/2.4b20077f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a05f30de.chunk.js"
+  ]
+}
