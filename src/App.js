@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
-import LoginForm from './components/LoginForm';
+import './index.css';
 import Header from './Header';
-import { BrowserRouter, Route } from 'react-router-dom';
-
 import Student from './Student';
 import Professor from './Professor';
+import SurveyComponent from './SurveyComponent';
+import { BrowserRouter, Route } from 'react-router-dom';
+
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
           <BrowserRouter>
              <Header/>
              <Route path='/' exact={true} component={Student}/>
-             <Route path='/private' exact={true} component={Professor}/>
+             <Route path='/professor' exact={true} component={Professor}/>
+             <Route path='/quiz' exact={true} component={SurveyComponent}/>
           </BrowserRouter>
         </div>
       </div>
